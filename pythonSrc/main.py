@@ -1,22 +1,22 @@
 from Ranking import Ranking
-
+from BaseDatos import BaseDatos
 
 # Ejemplo de uso
 if __name__ == '__main__':
     # Base de datos ficticia de zapatos con enlaces
-    database = {
-        'zapato1': {'enlaces': ['zapato2', 'zapato3']},
-        'zapato2': {'enlaces': ['zapato1', 'zapato3']},
-        'zapato3': {'enlaces': ['zapato1']}
-    }
-    rankin=Ranking(database)
+    database=BaseDatos()
+    database.genera_base_data()
+
+
+
+    rankin=Ranking(database.data)
 
     # Agregar nodos (artículos de zapatos)
-    for zapato, info in database.items():
+    for zapato, info in database.data.items():
         rankin.graph.add_node(zapato)
 
     # Agregar aristas (enlaces entre artículos)
-    for zapato, info in database.items():
+    for zapato, info in database.data.items():
         for enlace in info['enlaces']:
             rankin.graph.add_edge(zapato, enlace)
 
@@ -24,7 +24,7 @@ if __name__ == '__main__':
     rankin.generadorRanking()
 
     # Búsquedas o clics del usuario (ejemplo)
-    busquedas_usuario = ['zapato2', 'zapato3']
+    busquedas_usuario = ['zapato2', 'zapato3','zapato4', 'zapato5', 'zapato6']
 
     # Actualizar los valores de PageRank en función de las búsquedas o clics del usuario
     for zapato in busquedas_usuario:
