@@ -5,7 +5,7 @@ export default function iteamLista({data}) {
     return (
         <div className="item">
             <div>{data.nombre}</div>
-            <img src={"./"+data.nombre+".jpeg"} alt="" />
+            <img src={"./"+data.imagen} alt="" />
         </div>
     );
 }

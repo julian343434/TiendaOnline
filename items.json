@@ -1,4 +1,5 @@
 {
+    
     "zapatos": [
         {
             "id": 1,
@@ -14,6 +15,16 @@
             "id":3,
             "imagen": "zapato3.jpeg",
             "nombre": "zapato3"
+        },
+        {
+            "id": 4,
+            "imagen":"zapato1.jpeg",
+            "nombre":"zapato1"
+        },
+        {
+            "id": 5,
+            "imagen":"zapato2.jpeg",
+            "nombre":"zapato2"
         }
     ]
 }

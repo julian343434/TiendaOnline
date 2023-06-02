@@ -1,18 +1,1 @@
-[
-  {
-    "zapato": "zapato3",
-    "rank": 0.2646047502715787
-  },
-  {
-    "zapato": "zapato1",
-    "rank": 0.2646047502715787
-  },
-  {
-    "zapato": "zapato2",
-    "rank": 0.2646047502715787
-  },
-  {
-    "zapato": "zapato0",
-    "rank": 0.2061857491852643
-  }
-]
+[{"zapato": "zapato2", "rank": 0.31333333333333335}, {"zapato": "zapato3", "rank": 0.21605555555555556}, {"zapato": "zapato4", "rank": 0.17999351851851852}, {"zapato": "zapato1", "rank": 0.1633398148148148}, {"zapato": "zapato5", "rank": 0.12727777777777777}]

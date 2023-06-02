@@ -28,6 +28,17 @@ code {
   overflow: hidden; /* Evita que las imágenes se desborden */
 }
 
+.item-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columnas por fila */
+  grid-auto-rows: 100px; /* Altura de cada fila */
+  grid-gap: 20px;
+}
+
+.item-list > * {
+  grid-column: span 1; /* Ancho de cada elemento en columnas */
+  grid-row: span 3; /* Altura de cada elemento en filas */
+}
 
 .item .name {
   font-weight: bold;
