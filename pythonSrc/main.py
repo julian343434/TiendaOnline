@@ -3,7 +3,11 @@ from BaseDatos import BaseDatos
 
 # Ejemplo de uso
 if __name__ == '__main__':
+<<<<<<< HEAD
     # Base de datos ficticia de zapatos con enlaces
+=======
+    #Base de datos
+>>>>>>> 80e4ad1 (se agrego la base de datos y se probo el codigo de python)
     database=BaseDatos()
     database.genera_base_data()
 
