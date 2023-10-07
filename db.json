@@ -10,8 +10,15 @@
       "address": "",
       "role": "admin",
       "gender": "female",
-      "historial":["1", "2", "3", "4", "5", "6", "7"],
-      "PageRage":[]
+      "historial": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
     },
     {
       "id": "ntuser",
@@ -22,7 +29,16 @@
       "country": "singapore",
       "address": "address1\naddrees2",
       "role": "user",
-      "gender": "male"
+      "gender": "male",
+      "historial": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
     },
     {
       "id": "deivid",
@@ -32,7 +48,16 @@
       "phone": "3212770736",
       "country": "usa",
       "address": "",
-      "gender": "male"
+      "gender": "male",
+      "historial": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
     },
     {
       "id": "carlos",
@@ -42,7 +67,16 @@
       "phone": "3212770736",
       "country": "singapore",
       "address": "",
-      "gender": "male"
+      "gender": "male",
+      "historial": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
     },
     {
       "id": "marlon",
@@ -52,7 +86,16 @@
       "phone": "3212770736",
       "country": "india",
       "address": "",
-      "gender": "male"
+      "gender": "male",
+      "historial": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
     },
     {
       "id": "yeiner",
@@ -62,7 +105,34 @@
       "phone": "3212770736",
       "country": "usa",
       "address": "",
-      "gender": "male"
+      "gender": "male",
+      "historial": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "PageRange": [
+        {
+          "zapato": "zapato3",
+          "rank": 0.2646047502715787
+        },
+        {
+          "zapato": "zapato5",
+          "rank": 0.2646047502715787
+        },
+        {
+          "zapato": "zapato4",
+          "rank": 0.2646047502715787
+        },
+        {
+          "zapato": "zapato0",
+          "rank": 0.2061857491852643
+        }
+      ]
     },
     {
       "id": "hermes",
@@ -72,7 +142,34 @@
       "phone": "3212770736",
       "country": "singapore",
       "address": "",
-      "gender": "male"
+      "gender": "male",
+      "historial": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "PageRange": [
+        {
+          "zapato": "zapato1",
+          "rank": 0.2646047502715787
+        },
+        {
+          "zapato": "zapato5",
+          "rank": 0.2646047502715787
+        },
+        {
+          "zapato": "zapato2",
+          "rank": 0.2646047502715787
+        },
+        {
+          "zapato": "zapato0",
+          "rank": 0.2061857491852643
+        }
+      ]
     }
   ],
   "roleaccess": [

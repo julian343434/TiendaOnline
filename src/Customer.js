@@ -19,7 +19,7 @@ const Customer = () => {
     }, []);
 
     const loadcustomer = () => {
-        fetch("http://localhost:8000/customer").then(res => {
+        fetch("http://localhost:7201/customer").then(res => {
             if (!res.ok) {
                 return false
             }
@@ -31,7 +31,7 @@ const Customer = () => {
 
     const GetUserAccess = () => {
         const userrole = sessionStorage.getItem('userrole') != null ? sessionStorage.getItem('userrole').toString() : '';
-        fetch("http://localhost:8000/roleaccess?role=" + userrole + "&menu=customer").then(res => {
+        fetch("http://localhost:7201/roleaccess?role=" + userrole + "&menu=customer").then(res => {
             if (!res.ok) {
                 navigate('/');
             toast.warning('You are not authorized to access');
