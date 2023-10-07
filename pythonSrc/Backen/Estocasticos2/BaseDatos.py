@@ -8,7 +8,7 @@ class BaseDatos:
     def genera_base_data(self) -> dict:
         for i in range(1, 6):
             zapato = f'zapato{i}'
-            enlaces = random.sample(range(1, 6), 3)  # Generar 3 enlaces aleatorios para cada artículo
+            enlaces = random.sample(range(1, 6), 5)  # Generar 3 enlaces aleatorios para cada artículo
             enlaces = [f'zapato{j}' for j in enlaces]
             metadata = {
                 'id': i,

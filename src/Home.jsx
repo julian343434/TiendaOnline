@@ -3,6 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import ItemLista from "./ItemLista";
 import Lista from "./Lista";
 
+
 const Home = () => {
     const usenavigate = useNavigate();
     const [customerlist, listupdate] = useState(null);
@@ -39,7 +40,6 @@ const Home = () => {
     return (
         <div>
             <h1 className="text-center">{displayusername}</h1>
-
             <Lista user={displayusername}/>
         </div>
     );

@@ -1,0 +1,162 @@
+{
+  "hermes": [
+    {
+      "id": 1,
+      "imagen": "zapato1.jpeg",
+      "nombre": "zapato1",
+      "ranking": 0.3133333333333333
+    },
+    {
+      "id": 4,
+      "imagen": "zapato4.jpeg",
+      "nombre": "zapato4",
+      "ranking": 0.2441556969364921
+    },
+    {
+      "id": 5,
+      "imagen": "zapato5.jpeg",
+      "nombre": "zapato5",
+      "ranking": 0.21269456318857394
+    },
+    {
+      "id": 2,
+      "imagen": "zapato2.jpeg",
+      "nombre": "zapato2",
+      "ranking": 0.18795541417461892
+    },
+    {
+      "id": 3,
+      "imagen": "zapato3.jpeg",
+      "nombre": "zapato3",
+      "ranking": 0.0418609923669816
+    }
+  ],
+  "carlos": [
+    {
+      "id": 3,
+      "imagen": "zapato3.jpeg",
+      "nombre": "zapato3",
+      "ranking": 0.3133333333333334
+    },
+    {
+      "id": 1,
+      "imagen": "zapato1.jpeg",
+      "nombre": "zapato1",
+      "ranking": 0.25798488759380717
+    },
+    {
+      "id": 4,
+      "imagen": "zapato4.jpeg",
+      "nombre": "zapato4",
+      "ranking": 0.1953451020792749
+    },
+    {
+      "id": 2,
+      "imagen": "zapato2.jpeg",
+      "nombre": "zapato2",
+      "ranking": 0.15844416389110486
+    },
+    {
+      "id": 5,
+      "imagen": "zapato5.jpeg",
+      "nombre": "zapato5",
+      "ranking": 0.07489251310247971
+    }
+  ],
+  "deivid": [
+    {
+      "id": 1,
+      "imagen": "zapato1.jpeg",
+      "nombre": "zapato1",
+      "ranking": 0.3133333333333334
+    },
+    {
+      "id": 4,
+      "imagen": "zapato4.jpeg",
+      "nombre": "zapato4",
+      "ranking": 0.3048333333333334
+    },
+    {
+      "id": 3,
+      "imagen": "zapato3.jpeg",
+      "nombre": "zapato3",
+      "ranking": 0.2269638888888889
+    },
+    {
+      "id": 5,
+      "imagen": "zapato5.jpeg",
+      "nombre": "zapato5",
+      "ranking": 0.12486944444444448
+    },
+    {
+      "id": 2,
+      "imagen": "zapato2.jpeg",
+      "nombre": "zapato2",
+      "ranking": 0.030000000000000006
+    }
+  ],
+  "marlon": [
+    {
+      "id": 1,
+      "imagen": "zapato1.jpeg",
+      "nombre": "zapato1",
+      "ranking": 0.3133333333333333
+    },
+    {
+      "id": 4,
+      "imagen": "zapato4.jpeg",
+      "nombre": "zapato4",
+      "ranking": 0.234913806880017
+    },
+    {
+      "id": 5,
+      "imagen": "zapato5.jpeg",
+      "nombre": "zapato5",
+      "ranking": 0.234913806880017
+    },
+    {
+      "id": 2,
+      "imagen": "zapato2.jpeg",
+      "nombre": "zapato2",
+      "ranking": 0.1749784384026544
+    },
+    {
+      "id": 3,
+      "imagen": "zapato3.jpeg",
+      "nombre": "zapato3",
+      "ranking": 0.04186061450397813
+    }
+  ],
+  "yeiner": [
+    {
+      "id": 3,
+      "imagen": "zapato3.jpeg",
+      "nombre": "zapato3",
+      "ranking": 0.3133333333333334
+    },
+    {
+      "id": 4,
+      "imagen": "zapato4.jpeg",
+      "nombre": "zapato4",
+      "ranking": 0.29372371148761184
+    },
+    {
+      "id": 1,
+      "imagen": "zapato1.jpeg",
+      "nombre": "zapato1",
+      "ranking": 0.1853451255118325
+    },
+    {
+      "id": 2,
+      "imagen": "zapato2.jpeg",
+      "nombre": "zapato2",
+      "ranking": 0.13838739962349936
+    },
+    {
+      "id": 5,
+      "imagen": "zapato5.jpeg",
+      "nombre": "zapato5",
+      "ranking": 0.0692104300437231
+    }
+  ]
+}

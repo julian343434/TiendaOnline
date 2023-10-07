@@ -73,6 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ###
 npm install 
 npm start
+
 json-server --watch db.json --port 1212
 ### EN LA CARPETA pythonSrc/Backen/Estocasticos2
 json-server --watch data_final.json --port 1213 
